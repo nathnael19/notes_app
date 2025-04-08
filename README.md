@@ -1,16 +1,36 @@
-# notes_app
+# 📝 Notes App
 
-A new Flutter project.
+A minimal, lightweight, and offline-first notes app built using **Flutter** and **Hive** for local storage. Perfect for jotting down quick thoughts or keeping your daily notes organized. Designed with a clean UI and seamless user experience in mind.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📌 Create, update, and delete notes
+- 📱 Beautiful and responsive UI
+- 💾 Offline-first with local data storage using Hive
+- 🔐 Secure app lock (optional)
+- 🧠 Smooth note editing experience with full-screen editor
+- 🔁 Future support for Firebase sync (planned)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Hive](https://docs.hivedb.dev/) - Lightweight and blazing fast key-value database
+- [Provider](https://pub.dev/packages/provider) - State management
+- [Google Fonts](https://pub.dev/packages/google_fonts) - Typography
+- [Path Provider](https://pub.dev/packages/path_provider) - For locating filesystem paths
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (Latest stable)
+- Android Studio / VS Code
+- Emulator or real device
+
+### Installation
+
+```bash
+git clone https://github.com/nathnael19/notes_app.git
+cd notes_app
+flutter pub get
+flutter run
