@@ -1,0 +1,1 @@
+the onboarding screen which appears only when the user open the app for the very first time
