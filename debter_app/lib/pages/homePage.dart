@@ -175,7 +175,7 @@ class _HomePageState extends State<HomePage> {
                                       icon: Icon(
                                         Icons.edit,
                                         size: 18,
-                                        color: Colors.purple,
+                                        color: Colors.deepPurple,
                                       ),
                                     ),
                                   ],
